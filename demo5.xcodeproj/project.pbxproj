@@ -19,6 +19,7 @@
 		1BF863471C841AB70008DC4F /* STSchoolTaskMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF863411C841AB70008DC4F /* STSchoolTaskMessage.m */; };
 		1BF863481C841AB70008DC4F /* STSchoolTaskUIView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF863441C841AB70008DC4F /* STSchoolTaskUIView.m */; };
 		1BF863491C841AB70008DC4F /* STSchoolTaskViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF863451C841AB70008DC4F /* STSchoolTaskViewController.m */; };
+		1BF8634C1C84625D0008DC4F /* STSchoolCall.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF8634B1C84625D0008DC4F /* STSchoolCall.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,8 @@
 		1BF863441C841AB70008DC4F /* STSchoolTaskUIView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STSchoolTaskUIView.m; sourceTree = "<group>"; };
 		1BF863451C841AB70008DC4F /* STSchoolTaskViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STSchoolTaskViewController.m; sourceTree = "<group>"; };
 		1BF863461C841AB70008DC4F /* STSchoolTaskViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STSchoolTaskViewController.h; sourceTree = "<group>"; };
+		1BF8634A1C84625D0008DC4F /* STSchoolCall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STSchoolCall.h; sourceTree = "<group>"; };
+		1BF8634B1C84625D0008DC4F /* STSchoolCall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STSchoolCall.m; sourceTree = "<group>"; };
 		630D38CC6BB4CB801EA75D66 /* libPods-demo5.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-demo5.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD0CEA737754F2D41D75CE0F /* Pods-demo5.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo5.debug.xcconfig"; path = "Pods/Target Support Files/Pods-demo5/Pods-demo5.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -123,6 +126,8 @@
 				1BF863441C841AB70008DC4F /* STSchoolTaskUIView.m */,
 				1BF863451C841AB70008DC4F /* STSchoolTaskViewController.m */,
 				1BF863461C841AB70008DC4F /* STSchoolTaskViewController.h */,
+				1BF8634A1C84625D0008DC4F /* STSchoolCall.h */,
+				1BF8634B1C84625D0008DC4F /* STSchoolCall.m */,
 				1BF863111C8416C10008DC4F /* AppDelegate.h */,
 				1BF863121C8416C10008DC4F /* AppDelegate.m */,
 				1BF863141C8416C10008DC4F /* ViewController.h */,
@@ -349,6 +354,7 @@
 			files = (
 				1BF863491C841AB70008DC4F /* STSchoolTaskViewController.m in Sources */,
 				1BF863161C8416C10008DC4F /* ViewController.m in Sources */,
+				1BF8634C1C84625D0008DC4F /* STSchoolCall.m in Sources */,
 				1BF863481C841AB70008DC4F /* STSchoolTaskUIView.m in Sources */,
 				1BF863131C8416C10008DC4F /* AppDelegate.m in Sources */,
 				1BF863101C8416C10008DC4F /* main.m in Sources */,
