@@ -1,0 +1,17 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'demo5' do
+
+pod 'Masonry'
+pod 'ReactiveCocoa','2.1.8'
+end
+
+target 'demo5Tests' do
+
+end
+
+target 'demo5UITests' do
+
+end
+
