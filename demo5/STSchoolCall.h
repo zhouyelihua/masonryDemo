@@ -11,5 +11,4 @@
 @interface STSchoolCall : UIView
 @property(nonatomic,strong) UIButton*call;
 -(void ) setup;
--(void)btn:(id)x;
 @end
